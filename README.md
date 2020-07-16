@@ -1,5 +1,17 @@
  ![](./Swablu.jpg)
 
+# Adrian aka whiteadi
+
+I Am A Cybernetic Organism, Living Tissue Over (Metal) Endoskeleton
+
+## About
+
+Well here are all kinds of projects or framents of, some done for fun some for work :)
+
+Do not look on all for the best practices or whatnot because some are like timed assignements
+
+or working with students or whatever that the get it done factor had prio
+
 <!--
 **whiteadi/whiteadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
