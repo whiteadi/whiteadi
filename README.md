@@ -1,6 +1,6 @@
  ![](./Swablu.jpg)
 
-# Adrian aka whiteadi
+# Adrian aka whiteadi (not a swablu)
 
 I Am A Cybernetic Organism, Living Tissue Over (Metal) Endoskeleton
 
