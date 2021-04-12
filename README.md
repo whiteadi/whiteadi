@@ -10,7 +10,7 @@ Well here are all kinds of projects or framents of, some done for fun some for w
 
 Do not look on all for the best practices or whatnot because some are like timed assignements
 
-or working with students or whatever that the get it done factor had prio
+or working with students or whatever where the get it done factor had prio, or not ;)
 
 <!--
 **whiteadi/whiteadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
