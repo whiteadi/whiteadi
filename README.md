@@ -6,9 +6,9 @@ I Am A Cybernetic Organism, Living Tissue Over (Metal) Endoskeleton
 
 ## About
 
-Well here are all kinds of projects or framents of, some done for fun some for work :)
+Well here are all kinds of projects or fragments of, some done for fun some for (possible future) work :)
 
-Do not look on all for the best practices or whatnot because some are like timed assignements
+Do not look on all for the best practices or whatnot because some are timed assignements
 
 or working with students or whatever where the get it done factor had prio, or not ;)
 
